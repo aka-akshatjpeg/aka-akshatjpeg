@@ -50,7 +50,7 @@ I enjoy building practical software solutions, developing web and mobile applica
 
 **Repository:** [HealthVault](https://github.com/aka-akshatjpeg/HealthVault)
 
-A digital healthcare platform designed to organize personal medical records and make health information accessible in one place.
+A patient-centered records project with a Flask web backend and an Expo mobile app.
 
 **Key Features:**
 - Centralized digital health records.
@@ -60,7 +60,7 @@ A digital healthcare platform designed to organize personal medical records and 
 - OTP-based health data sharing concept.
 - Mobile application built with React Native and Expo.
 
-**Tech Stack:** React Native, Expo, React, TanStack Query, Axios, API Integration.
+**Tech Stack:** Python, Flask, SQLite, React Native, Expo, TanStack Query, Axios.
 
 ---
 
@@ -83,16 +83,16 @@ An AI-powered e-commerce assistant designed to improve online shopping through c
 
 **Repository:** [GaliFM](https://github.com/aka-akshatjpeg/GaliFM)
 
-A multi-station online radio platform inspired by Indian music culture, bringing different musical moods and genres together.
+A multi-station web radio experience inspired by everyday Indian life. The repository contains the app source and artwork; audio tracks are omitted until redistribution rights are confirmed.
 
 **Key Features:**
 - Multiple themed music stations.
 - Dedicated music player interface.
-- Local music library organized by station folders.
-- Shuffle-based music playback.
+- Station-based playback for audio you have permission to use.
+- Browser-based player controls and station artwork.
 - Interactive station cards and animations.
 
-**Tech Stack:** HTML, CSS, JavaScript, HTML Audio API.
+**Tech Stack:** HTML, CSS, JavaScript, Python development server.
 
 ---
 
