@@ -48,6 +48,8 @@ I enjoy building practical software solutions, developing web and mobile applica
 
 ### 🏥 HealthVault — Digital Health Record Management
 
+**Repository:** [HealthVault](https://github.com/aka-akshatjpeg/HealthVault)
+
 A digital healthcare platform designed to organize personal medical records and make health information accessible in one place.
 
 **Key Features:**
@@ -78,6 +80,8 @@ An AI-powered e-commerce assistant designed to improve online shopping through c
 ---
 
 ### 📻 Gali FM — Online Radio & Music Streaming Platform
+
+**Repository:** [GaliFM](https://github.com/aka-akshatjpeg/GaliFM)
 
 A multi-station online radio platform inspired by Indian music culture, bringing different musical moods and genres together.
 
